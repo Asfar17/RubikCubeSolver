@@ -43,7 +43,4 @@ g++ -std=c++17 main.cpp CubeState.cpp CubeRotations.cpp MoveTest.cpp -o CubeSolv
     -Left:YOWGGGYRW
     -Up:OOOYYYRRR
     -Down:RRRWWWOOO
-### 5.You will get an Solved States with above scrambled only because i have developed only rotations of the cube by completing the logic of the layer-by-layer approach call from the main.cpp to do the full Solver
-
-
-###Thank You
+### 5.You will get an Solved States with above scrambled only because i have developed only rotations of the cube by completing the logic of the layer-by-layer approach call from the main.cpp to do the full Solver of the cube.
