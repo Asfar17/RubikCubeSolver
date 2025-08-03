@@ -23,6 +23,8 @@ This C++ project allows you to **simulate**, **test**, and soon **visualize** Ru
 
 ## 🚀 How to Build & Run
 
+### Download or pull the codes from the github and save it on the folder named "CubeSolver"
+
 ### 1. Open VS Code
 - Navigate to the project folder.
 - Open the integrated terminal:  
