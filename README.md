@@ -1,6 +1,6 @@
 # 🧊 Rubik's Cube Move Testing & Visualization
 
-This C++ project allows you to **simulate**, **test**, and soon **visualize** Rubik’s Cube moves like `R`, `L`, `U`, `D`, etc. It is modularized and prepared for 3D visualization using OpenGL. The goal is to simulate and debug standard cube solving algorithms phase-by-phase, starting with move testing and later moving into GUI rendering.
+This C++ project allows you to **simulate**, **test**, and soon **visualize** Rubik’s Cube moves like `R`, `L`, `U`, `D`, etc. It is modularized and prepared for 3D visualization using OpenGL. The goal is to simulate and debug standard cube solving algorithms phase-by-phase, starting with move testing.
 
 ---
 
